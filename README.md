@@ -1,1 +1,4 @@
 # Pet-Food-And-Accessories-Shop-Website
+**Frontend:** HTML5,CSS3,JAVASCRIPT,BOOTSTRAP 4
+**BACKEND:** PHP,MYSQL
+**DEVELOPMENT TOOLS:**XAMPP,phpMyAdmin,VS CODE
